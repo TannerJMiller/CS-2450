@@ -1,5 +1,5 @@
 import random
-
+# This program is a simple age guessing game. It will ask the user for their name and then try to guess their age by randomly selecting a number between 15 and 40. The user will respond with 'y' for yes or 'n' for no, and the program will continue guessing until it gets the correct age.
 def guess_age():
     name = input("Enter your name: ")
     got_age = False
