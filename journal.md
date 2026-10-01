@@ -7,5 +7,6 @@ Slide presentation is looking very close to our chosen astetic.
 #9/29/26#
 Presentaion went well. We might want a page for new users.
 
-
+#10/1/26#
+There is no create project button to make our kanban board.
 
